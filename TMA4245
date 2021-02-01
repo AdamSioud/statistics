@@ -1,1 +1,60 @@
+TMA4245 Vår
 
+Eksamen blir en digital hjemmeeksamen i Inspera 14.05.2021 klokken 09:00–13:00. Denne eksamen teller 100% av karakteren og blir vurdert med bokstavkarakter. 
+
+Pensum defineres ut fra læreboka i emnet, et notat og samtlige øvinger.  (Jeg velger å ikke bruke boken, men om det virkelig skulle være nødvendig i noen tilfeller finner man den her http://www.elcom-hu.com/Mshtrk/Statstics/9th%20txt%20book.pdf)
+
+Og følgende er pensum 
+
+
+    Kap 1. Hele.
+    Kap 2: Hele.
+    Kap 3: Hele.
+    Kap 4: 4.1 - 4.3 (til What if the function is nonlinear?)
+    Kap 5: Hele.
+    Kap 6: 6.1 - 6.7.
+    Kap 7: 7.1, 7.2: Teorem 1 og Teorem 3, 7.3.
+    Notat: Ordningsvariabler og ekstremvariabler
+    Kap 8: 8.1-8.6, 8.8.
+    Kap 9: 9.1 - 9.6, 9.8 (unntatt avsnittet Variances Unknown But Equal), 9.9-9.12, 9.14.
+    Kap 10: 10.1- 10.4, 10.5 (unntatt avsnittet Unknown But Equal Variances), 10.6-10.9.
+    Kap 11: 11.1-11.6, 11.10 (om residualplott).
+    
+
+## Fremtidsplan
+ 
+Uke 	             Kapittel 	            Tema
+ 2 	    1   	                            Innledning, deskriptiv statistikk, og definisjon av sannsynlighet.
+ 3 	    2   	                            Sannsynlighet (hendelser, kombinatorikk)
+ 4 	    3   	                            Stokastiske variabler og sannsynlighetsfordelingerfordelinger
+ 5 	    4 	                              Forventning, varians og kovarians
+ 6     	5 	                              Diskrete sannsynlighetsfordelinger
+ 7  	6.1-6.6 	                          Kontinuerlige sannsynlighetsfordelinger
+ 8 	  7, notat 	                          Funksjoner av stokastiske variabler
+ 9 	8.1-8.3, 9.1-9.4 	                    Parameterestimering og utvalgsfordelinger
+10 	9.4-9.5, 9.14 	                      Sannsynlighetsmaksimeringsestimator og konfidensintervall
+11 	6.7, 8.4-8.6, 8.8, 9.4, 9.8-9.12 	    Konfidensintervall
+12 	9.6, 10.1-10.2 	                      Prediksjonsintervall og innledning til hypotesetesting
+13 	(Påskeferie) 	
+14 	10.3-10.9 	                          Hypotesetesting
+15 	11 	                                  Enkel lineær regresjon
+16-17 		                                Oppsummering og avslutning 
+
+## Nyttige sider
+
+Kjempe fin tema nettside https://tma4245.math.ntnu.no/
+En ordliste som er viktig å ha for oversettelse mellom sentrale begreper i statistikk https://docs.google.com/spreadsheets/d/1mFeJs3bWTGfo6V3Uby-W3qB33mduDeO-GCBLmEWCUHg/edit?pli=1#gid=0 
+Wikipendium https://www.wikipendium.no/TMA4240_Statistics Fin oppsumering av mye av pensum til TMA4245
+Introduksjons-, tematiske og oppgavevideoer. Bra videoer å følge nok for å forstå mye av pensum https://wiki.math.ntnu.no/tma4245/2021v/temavideoer 
+Spørsmål? se her https://wiki.math.ntnu.no/tma4245/2021v/sporsmal
+
+##Tanker
+
+
+Gjennomgang av faget.
+
+Første inntrykk og forventning: Av de fagene hittil 4 seester på ntnu er statistik et av de få jeg har hat lyst til å gi full insats i. man gjøre selv ut av de emneene
+man tar, og selv om legger til rettte, lese ved siden av osv osv. Dett er noe jeg planlegger med statistikk. Starter å se på fager 01/02/2021 noe som gjør at jeg 
+har gått glipp av 1 innlevering, men det gjør ingen skade, av det jeg har sett hittil er jeg svært imponert av x og gleder meg mye av at menneskene bak undervsningen har laget et så bra læringsingssted med wikien.
+Midtveisevaluering:
+Avslutende ord:
